@@ -1,0 +1,35 @@
+Question: Does GOT series impact naming of newborn babies in the USA?
+
+If GOT series impacts naming of newborn babies in the USA, then there will be more GOT character names in the census from 1996 till now (in comparison to before GOT was published)
+
+Book came out in August 1, 1996
+Show came out in April 17, 2011
+
+--------------------------------
+
+Step 1: Convert txt file dataset to csv files and upload to git
+Step 2: Combine csv files for each year to one csv file 
+
+Step 3: Analyze the dataset and create graphs to prove our hypothesis
+
+Throughout the United States:
+
+a) Trends from 1991 (5 years before the book came out) to 2019 (currently)
+	1. Name count; this determines popular GOT characters
+	2. Determine the top 3 GOT female and top 3  GOT male character names from this calculation
+	3. Search and graph each name and show the trends from 1991 to 2019 (explain the trend)
+	4. Was our hypothesis correct?
+
+b) Specific trends 1990 to 2011 (book came out)
+	1. Search and graph each name and show the trends from 1990 to 2011(explain the trend)
+	2. Was our hypothesis correct?
+
+c) Specific trends 2011 to 2019 (show came out)
+	1. Search and graph each name and show the trends from 2011 to 2019(explain the trend)
+	2. Was our hypothesis correct?
+
+If we have more time....
+1. Determine the count of those names in each state from 2011 to 2019
+2. Take the total count and divde it by each state's population to get GOT character name percentage (this determines which state has the most fans) 
+3. Which state has the most GOT fans?
+
